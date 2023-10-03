@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BitField", "BitField\BitField.vcxproj", "{D57298AB-B23A-4CC1-8E03-AF87F18AFACC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D57298AB-B23A-4CC1-8E03-AF87F18AFACC}.Debug|x64.ActiveCfg = Debug|x64
+		{D57298AB-B23A-4CC1-8E03-AF87F18AFACC}.Debug|x64.Build.0 = Debug|x64
+		{D57298AB-B23A-4CC1-8E03-AF87F18AFACC}.Debug|x86.ActiveCfg = Debug|Win32
+		{D57298AB-B23A-4CC1-8E03-AF87F18AFACC}.Debug|x86.Build.0 = Debug|Win32
+		{D57298AB-B23A-4CC1-8E03-AF87F18AFACC}.Release|x64.ActiveCfg = Release|x64
+		{D57298AB-B23A-4CC1-8E03-AF87F18AFACC}.Release|x64.Build.0 = Release|x64
+		{D57298AB-B23A-4CC1-8E03-AF87F18AFACC}.Release|x86.ActiveCfg = Release|Win32
+		{D57298AB-B23A-4CC1-8E03-AF87F18AFACC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67EBF10B-6376-4529-B6DE-7714BBAAE254}
+	EndGlobalSection
+EndGlobal
